@@ -1,0 +1,1 @@
+aws lambda publish-version --function-name FindAllMovies --description 1.0.1
